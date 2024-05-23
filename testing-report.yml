@@ -116,6 +116,10 @@
   status: pass
 
 - summary: |
+    Успешное отображение информации во вкладке ‘Completed games’ в разделе ‘My profile’ в личном профиле пользователя
+  status: pass
+
+- summary: |
     Успешное изменение языка программирования в настройках
   status: pass
 
